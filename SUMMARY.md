@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Entitlements](README.md)
-* [Contact](contact.md)
-* [Permissions](permissions.md)
-* [Search](search.md)
-* [Room](room.md)
-* [Companies](companies.md)
+* [README](README.md)
+* [Authentication](authentication.md)
+* [Entitlements API](entitlement.md)
+* [Permissions API](permissions.md)
